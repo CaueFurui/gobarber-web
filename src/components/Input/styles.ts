@@ -1,6 +1,7 @@
 import styled, { css } from 'styled-components';
 import Tooltip from '../Tooltip';
 
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 interface ContainerProps {
   isFocused: boolean;
   isFilled: boolean;
